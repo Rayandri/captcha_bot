@@ -3,7 +3,7 @@ import json
 from discord.ext import commands
 from captchagenerator import generate, random_image, image
 
-NB_IMAGE = 1000
+NB_IMAGE = 10000
 TIMEOUT = 60
 
 generate(NB_IMAGE)
