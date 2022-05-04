@@ -2,7 +2,7 @@ from captcha_rayan.image import ImageCaptcha
 import random
 import os
 import shutil
-from skimage import io
+
 
 
 image = ImageCaptcha()

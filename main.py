@@ -1,8 +1,5 @@
 import discord
-import os
 import json
-import random
-from skimage import io
 from discord.ext import commands
 from captchagenerator import generate, random_image, image
 
